@@ -3,6 +3,8 @@ An Web application which deals with the marketing and production of coconut
 
 Setting PSQL - https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04
 
+GemSet - https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rvm-on-ubuntu-20-04
+
 Models
 
 Users - Buyer & Seller
